@@ -88,7 +88,7 @@
     align-items: flex-start;
     padding: 0 2rem;
     color: rgb(0, 0, 0);
-    background-image: url('/image/pg.webp'); /* Replace with your image path */
+    background-image: url('../image/pg.webp'); /* Replace with your image path */
     background-size: cover; /* Ensures the image covers the entire section */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repeating the image */
